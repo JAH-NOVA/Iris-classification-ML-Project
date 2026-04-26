@@ -41,3 +41,9 @@ This project focuses on classifying Iris flower species using Machine Learning a
 ## ▶️ How to Run
 1. Clone the repository  
 2. Install dependencies:
+
+
+
+## 📸 Output
+
+![Output](output.pdf) and graph for[labels]
